@@ -1,6 +1,6 @@
 ## About
 
-Install unprivileged (non root) envoy systemd service with hot reload
+Install unprivileged (non root) envoy systemd service with hot reload capability
 
 ## Requirements
 
